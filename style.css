@@ -1,0 +1,198 @@
+
+
+::-webkit-scrollbar-track {
+background-color:#ecedee
+}
+
+::-webkit-scrollbar-thumb {
+-webkit-border-radius: 0px;
+border-radius: 10px;
+background-color:#6dc0c8;
+}
+
+::-webkit-scrollbar-thumb:hover{
+background-color:#56999f;
+}
+::-webkit-scrollbar{
+width: 10px;
+}
+
+.login {
+	width: 40%;
+	background-color: white;
+	text-align: center;
+	height:100vh;
+	font-family: Calibri;
+
+}
+.login-form-head-reg {
+	font-size: 28px;
+	padding: 7px;
+}
+.login-form-head {
+	font-family: Arial;
+	padding: 15px;
+}
+.data-fields {
+	border: 1px solid #eee;
+	width: 280px;
+	height: 40px;
+	text-align: center;
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.login-btn {
+	padding: 14px;
+	width: 280px;
+	background-color: #ff5258;
+	border: none;
+	color: white;
+	font-size: 16px;
+	cursor: pointer;
+}
+.support-url { 
+	color: grey;
+	font-size: 17px;
+	padding: 15px;
+	cursor: pointer;
+}
+.table-header {
+	font-family: Calibri;
+	font-size: 20px;
+	color: white;
+	width: 100%;
+}
+.td-header {
+	background-color: #363a48;
+	padding: 18px 15px;
+	text-align: left;
+	
+	margin: 0px;
+}
+.textload {
+	padding:10px 15px;
+	font-family: Tahoma;
+	font-size: 16px;
+	color: #4f50c0;
+}
+.td-header-username {
+	background-color: #363a48;
+	padding: 18px 15px;
+	text-align: left;
+	width: 25%;
+	font-size: 16px;
+	text-align: right;
+}
+.td-exit {
+	background-color: #009A92;
+	width: 70px;
+	text-align: center;
+	padding: 18px 15px;
+	margin: 0px;
+	cursor: pointer;
+}
+.page-name {
+	padding: 20px 28px;
+	font-family: roboto, sans-serif;
+	color: #009ba2;
+	font-size: 28px;
+	
+}
+.balans-header {
+	font-family: Tahoma;
+	padding: 6px 27px;	
+	color: #363a48;
+	text-align: center;
+}
+.balans-status {
+	font-family: Tahoma;
+	padding: 8px 27px;	
+	color: #363a48;
+	font-size: 35px;
+	text-align: center;
+}
+.info-eco {
+	font-family: Tahoma;
+	padding: 8px 27px;	
+	color: #363a48;
+	font-size: 18px;
+}
+.pay-btn {
+	border-radius: 20px;
+	border: none;
+	padding: 14px 14px;
+	color: white;
+	background-color: #6631cc;
+	margin: 14px;
+	font-size: 19px;
+}
+.pole-tit {
+	font-family: Arial;
+	text-align: center;
+	color: #333;
+	margin: 5px;
+}
+.succesfull_btn_back {
+	cursor: pointer;
+    outline: none;
+    height: 50px;
+    padding: 0 100px;
+    font-size: 14px;
+    background-color: #b5e00f;
+	color: white;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+	margin-top: 4%;
+	position: center;
+	border-radius: 30px;
+}
+.window-zag {
+	font-family: Arial;
+	font-size: 22px;
+	color: #0054b9;
+	text-align: center;
+	margin: 14px;
+}
+.pole_tit {
+	font-family: Arial;
+	text-align: center;
+	color: #333;
+	margin: 5px;
+	
+}
+.data_field {
+	
+	height: 35px;
+    font-size: 14px;
+	width: 100%;
+	font-family: Arial;
+	text-align-last: center; 
+	border: 1% solid rgb(169,169,169);
+	margin: 0px;	
+}
+.sub-pagename {
+	padding: 18px 34px;
+	color: #097db4;
+	font-family: Arial;
+	font-size: 24px;
+}
+.removercold_btn {
+	border-radius: 30px;
+	border: none;
+	padding: 14px 14px;
+	color: white;
+	background-color: #E8516B;
+	margin: 5px;
+	font-size: 14px;
+}
+.add-btn {
+	border-radius: 30px;
+	border: none;
+	padding: 14px 200px;
+	color: white;
+	background-color: rgb(255, 183, 50);
+	margin: 15px 0px;
+	font-size: 14px;
+}
